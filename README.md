@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello... 👋😁
+
+Saya adalah mahasiswa yang sedang belajar dan mengembangkan kemampuan di bidang **Data Science**.
+
+saat ini saya mempelajari Python & Machine Learning, untuk mengembangkan kemampuan serta membangun berbagai Proyek.
 
 <!--
 **dimaspiopratama/dimaspiopratama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hobi saya 🎯
+
+- Badminton 🏸
+- Sepeda 🚴
+- Berenang 🏊‍♀️
+
+## Saat ini saya sedang belajar 📚
+
+- Python 🐍
+- Machine Learning 🤖
+- Data Science 📊
+
+## Tujuan saya 🚀
+
+Terus belajar, mengembangkan kemampuan, dan membangun
+berbagai proyek di bidang teknologi.
+
